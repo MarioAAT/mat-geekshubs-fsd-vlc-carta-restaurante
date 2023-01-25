@@ -1,0 +1,7 @@
+body{
+    background-image: url(../images/letrero.jpg);
+    
+    background-size: cover;
+    /* background-color: #03001C; */
+    margin: 0;
+}
