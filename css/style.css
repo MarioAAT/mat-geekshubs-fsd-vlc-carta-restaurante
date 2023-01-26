@@ -1,7 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
     background-image: url(../images/letrero.jpg);
     
     background-size: cover;
     /* background-color: #03001C; */
     margin: 0;
+    padding: 0;
 }
