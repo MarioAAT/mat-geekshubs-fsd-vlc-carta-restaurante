@@ -10,6 +10,28 @@ body{
     font-family: 'Rubik Dirt', cursive;
 }
 
+.cont-design{
+    background-color: #FFFBF5;
+    /* text-bg-light */
+}
+
+.cont-team{
+    background-color: #F7EFE5;
+}
+
+.cont-app{
+    background-color: #C3ACD0;
+}
+
+.cont-menu{
+    background-color: #674188;
+}
+
+.cont-cards{
+    background-color: #301E67;
+}
+
+
 .img-blog {
     transition: transform .5s;
 }
@@ -19,6 +41,7 @@ body{
 }
 
 .card {
+    background-color: #F2CD5C;
     transition: transform .5s;
 }
 
