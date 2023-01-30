@@ -10,6 +10,13 @@ body{
     font-family: 'Rubik Dirt', cursive;
 }
 
+.cont-head{
+    height: 50vh;
+    background-image: url(../images/tiendatorr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .cont-design{
     background-color: #FFFBF5;
     /* text-bg-light */
