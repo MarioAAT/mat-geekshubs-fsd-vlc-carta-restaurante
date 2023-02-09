@@ -5,8 +5,6 @@
 body{
     background-image: url(../images/letrero.jpg);
     background-size: cover;
-    margin: 0;
-    padding: 0;
     font-family: 'Rubik Dirt', cursive;
 }
 
@@ -19,7 +17,6 @@ body{
 
 .cont-design{
     background-color: #FFFBF5;
-    /* text-bg-light */
 }
 
 .cont-team{
@@ -54,4 +51,35 @@ body{
 
 .card:hover{
     transform: scale(1.1);
+}
+
+.mainForm{
+    height: 76vh;
+}
+
+#aDomicilio{
+    background-image: url(../images/the-fitzgerald-9-1623685479.jpeg);
+    
+}
+
+#dreamteam{
+    background-image: url(../images/dreamteam.jpg);
+    background-position: center;
+}
+
+#cocaham{
+    background-image: url(../images/cocaham.jpg);
+    background-position: center;
+
+}
+
+#tiendamad{
+    background-image: url(../images/tiendamad.jpg);
+    background-position: center;
+    
+}
+.card-image{
+    height: 35vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
