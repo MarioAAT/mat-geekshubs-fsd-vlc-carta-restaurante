@@ -54,7 +54,7 @@ body{
 }
 
 .mainForm{
-    height: 76vh;
+    height: 85vh;
 }
 
 #aDomicilio{
@@ -76,7 +76,7 @@ body{
 #tiendamad{
     background-image: url(../images/tiendamad.jpg);
     background-position: center;
-    
+
 }
 .card-image{
     height: 35vh;
